@@ -1,0 +1,7 @@
+# Dependencias previstas para una fase posterior; backend no implementado todavía.
+fastapi
+uvicorn[standard]
+pydantic
+tensorflow
+sqlalchemy
+psycopg[binary]
